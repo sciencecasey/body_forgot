@@ -2,11 +2,7 @@
 title: "Home"
 ---
 
-#insert a photo of the cover
-# link instagram
-# link where to buy
-# link threads (?)
-
-
-# media appearances
-# online events
+<!-- insert a photo of the cover 
+link where to buy 
+media appearances 
+online events -->
