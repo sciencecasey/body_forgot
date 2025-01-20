@@ -7,7 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About the Book
+      - href: author.qmd
+        text: About the Author
+      - href: illustrator.qmd
+        text: About the Illustrator
 
 format:
   html:

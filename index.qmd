@@ -1,11 +1,12 @@
 ---
-title: "quarto_site"
+title: "Home"
 ---
 
-This is a Quarto website.
+#insert a photo of the cover
+# link instagram
+# link where to buy
+# link threads (?)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+# media appearances
+# online events
