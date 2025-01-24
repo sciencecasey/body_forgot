@@ -18,6 +18,8 @@ website:
         href: https://instagram.com/bodyforgot
       - icon: threads
         href: https://www.threads.net/@bodyforgot
+    execute:
+      freeze: auto
 
 format:
   html:
