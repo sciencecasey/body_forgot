@@ -6,3 +6,4 @@ title: "Home"
 link where to buy 
 media appearances 
 online events -->
+Making edits so that I can update github ediing again

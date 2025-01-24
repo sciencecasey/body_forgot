@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About the Book
+        text: About this Book
       - href: author.qmd
         text: About the Author
       - href: illustrator.qmd
@@ -24,8 +24,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    backgroundcolor: "blue"
-    foreground: "white"
+    #backgroundcolor: "blue"
+    #foreground: "white"
 
 editor: visual
 
