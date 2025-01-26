@@ -16,14 +16,25 @@ website:
     right:
       - icon: instagram
         href: https://instagram.com/bodyforgot
-      - icon: threads
+      - text: "![threads](threads.svg)"
         href: https://www.threads.net/@bodyforgot
+      - text: "![amazon](amazon.svg)"
+        href: https://www.amazon.com
+      - icon: book
+        href: https://www.bn.com
+      #- icon: envelope-at
+      #  href: send email
+      #- icon: spotify
+        #href:
+      #- icon: youtube
     execute:
       freeze: auto
 
 format:
   html:
-    theme: cosmo
+    #theme: cyborg
+    theme: quartz
+    #theme: vapor
     css: styles.css
     toc: true
     #backgroundcolor: "blue"
