@@ -2,8 +2,9 @@
 title: "Home"
 ---
 
+![BodyForgotCover](Screenshot_bodyforgot_cover.png){fig-alt="Cover image of The Body Forgot Book.  Image of brown, corner apartment building with 6 floors and people waving out of 5 of the floors"}
 <!-- insert a photo of the cover 
 link where to buy 
 media appearances 
 online events -->
-Making edits so that I can update github ediing again
+
