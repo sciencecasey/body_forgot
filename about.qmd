@@ -2,7 +2,7 @@
 title: "About this Book"
 ---
 
-![Rohan](Screenshot_Rohan_hero.png){fig-alt='Indian boy with short hair, purple glasses, red t-shirt with white long-sleeve shirt underneath, blue shorts, and grey tennis shoes lifting his arm in victory or greeting'}
+![Rohan](Screenshot_Rohan_hero.png){fig-alt='Indian boy with short hair, purple glasses, red t-shirt with white long-sleeve shirt underneath, blue shorts, and grey tennis shoes lifting his arm in victory or greeting' fig-align='center' width=50%}
 
 Rohan is a bright child who wants to introduce you to his many disabled friends.  By joining Rohan to visit his neighbors we see that not all bodies work the same way, but the quality of someone’s character is the most important thing.  Rohan models what it means to be a friend to those with different needs and teaches about accommodations used by each person.  
 
