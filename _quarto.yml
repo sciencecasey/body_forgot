@@ -16,14 +16,18 @@ website:
     right:
       - icon: instagram
         href: https://instagram.com/bodyforgot
+        aria-label: Instagram
       - text: "![threads](threads.svg)"
         href: https://www.threads.net/@bodyforgot
+        aria-label: Threads
       - text: "![amazon](amazon.svg)"
         href: https://www.amazon.com
-      - icon: book
-        href: https://www.bn.com
+        aria-label: Amazon
+      - href: https://www.bn.com
+        aria-label: Barnes & Noble
+        text: BN
       #- icon: envelope-at
-      #  href: send email
+      #  href: mailto:
       #- icon: spotify
         #href:
       #- icon: youtube
