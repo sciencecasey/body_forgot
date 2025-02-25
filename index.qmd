@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-![BodyForgotCover](Screenshot_bodyforgot_cover.png){fig-alt="Cover image of The Body Forgot Book.  Image of brown, corner apartment building with 6 floors and people waving out of 5 of the floors"}
+![Body Forgot Cover](9798992578812.jpg){fig-alt="Cover image of The Body Forgot Book.  Image of the front cover of The Body Forgot showing the characters.  Left to right Mr. Flores, a middle aged mexican-american with a blue shirt tucked into grey pants, a bals head, and an ostemy bag standing with hands in pockets.  Aunt Casey a white adult with long brown hair and bangs, waving and wearing a green jumpsuit and blue shirt.  Rohan, a young indian boy with blue glasses a red shirt with white sleeves and purple shorts.  Alisha a young black girl with a blue bow in a bun, hearing aids, a blood sugar monitor patch and a pink dress with a flower on it.  And Sheila, a young white girl with curly red hair sitting in a wheelchair and waving, wearing a purple t shirt and pink pants. "}
 <!-- insert a photo of the cover 
 link where to buy 
 media appearances 
