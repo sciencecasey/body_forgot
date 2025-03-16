@@ -11,7 +11,7 @@ title-meta: "The Body Forgot: A Fun Children's Book about Chronic Illness & Frie
 
 
 
-```{r}
+```{html}
 #| eval: false
 #| include: false
 # from yaml 
