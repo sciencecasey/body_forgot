@@ -1,5 +1,4 @@
 ---
 title: "Media"
-format: html
+title-meta: "Casey Jayne's media appearances about The Body Forgot"
 ---
-

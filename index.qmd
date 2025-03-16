@@ -1,19 +1,28 @@
 ---
 title: "On Sale on Amazon 5-5-25 or Pre-Order on BN Now!"
+title-meta: "The Body Forgot: A Fun Children's Book about Chronic Illness & Friendshp"
 ---
 
 [**Buy on B&N here**](https://www.barnesandnoble.com/w/the-body-forgot-casey-jayne/1147087554?ean=9798992578805 "pre-order")
 
 [Submit your email or phone number here to recieve a *reminder* on launch day](https://docs.google.com/forms/d/e/1FAIpQLSdL6JOi0iWg1VJK7bRre6tmFeJsbuHc24yemFETdX1Kl2uN5w/viewform "reminder email")
 
-![Body Forgot Cover](9798992578812.jpg){.preview-image fig-alt="Cover image of The Body Forgot Book.  Image of the front cover of The Body Forgot showing the characters.  Left to right Mr. Flores, a middle aged mexican-american with a blue shirt tucked into grey pants, a bals head, and an ostemy bag standing with hands in pockets.  Aunt Casey a white adult with long brown hair and bangs, waving and wearing a green jumpsuit and blue shirt.  Rohan, a young indian boy with blue glasses a red shirt with white sleeves and purple shorts.  Alisha a young black girl with a blue bow in a bun, hearing aids, a blood sugar monitor patch and a pink dress with a flower on it.  And Sheila, a young white girl with curly red hair sitting in a wheelchair and waving, wearing a purple t shirt and pink pants. "} (https://www.barnesandnoble.com/w/the-body-forgot-casey-jayne/1147087554?ean=9798992578805)
-
-```{=html}
+![Body Forgot Cover](9798992578812.jpg){.preview-image fig-alt="Cover image of The Body Forgot Book.  Image of the front cover of The Body Forgot showing the characters.  Left to right Mr. Flores, a middle aged mexican-american with a blue shirt tucked into grey pants, a bals head, and an ostemy bag standing with hands in pockets.  Aunt Casey a white adult with long brown hair and bangs, waving and wearing a green jumpsuit and blue shirt.  Rohan, a young indian boy with blue glasses a red shirt with white sleeves and purple shorts.  Alisha a young black girl with a blue bow in a bun, hearing aids, a blood sugar monitor patch and a pink dress with a flower on it.  And Sheila, a young white girl with curly red hair sitting in a wheelchair and waving, wearing a purple t shirt and pink pants. "} 
 
 
-from yaml 
-creator: "@bodyforgot"
-  site: "@bodyforgot"
+
+```{r}
+#| eval: false
+#| include: false
+# from yaml 
+
+#creator: "@bodyforgot"
+#  site: "@bodyforgot"
   
- -->
+  #- text: "![threads](threads.svg)"
+      #  href: https://www.threads.net/@bodyforgot
+      #  aria-label: Threads
+  #- icon: youtube
+      #  href: https://www.youtube.com/@Bodyforgot
+
 ```

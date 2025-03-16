@@ -1,5 +1,6 @@
 ---
-title: "About this Book"
+title: "The Body Forgot Book Description"
+title: false
 ---
 
 ![Rohan](Screenshot_Rohan_hero.png){fig-alt="Indian boy with short hair, purple glasses, red t-shirt with white long-sleeve shirt underneath, blue shorts, and grey tennis shoes lifting his arm in victory or greeting" fig-align="center" width="50%"}

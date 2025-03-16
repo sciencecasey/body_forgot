@@ -2,11 +2,12 @@ project:
   type: website
 
 website:
-  title: "Body Forgot"
+  title: "The Body Forgot"
+  #subtitle: "A Fun Children's Book about Chronic Illness & Friendshp"
   favicon: 9798992578812.jpg
   image: 9798992578812.jpg
   twitter-card: true
-  description: "A children's book about chronic illness and disability available May 5, 2025"
+  description: "A fun children's book about chronic illness and disability, written by a disabled and chonicallly ill author"
   navbar:
     left:
       - href: index.qmd
@@ -20,9 +21,6 @@ website:
       - href: faq.qmd
         text: Book Q&A
     right:
-      #- text: "![threads](threads.svg)"
-      #  href: https://www.threads.net/@bodyforgot
-      #  aria-label: Threads
       - text: "![amazon](amazon.svg)"
         href: https://www.amazon.com
         aria-label: Amazon
@@ -32,8 +30,6 @@ website:
       - icon: instagram
         href: https://instagram.com/bodyforgot
         aria-label: Instagram
-      #- icon: youtube
-      #  href: https://www.youtube.com/@Bodyforgot
       - text: "Email"
         url: mailto:bodyforgot@gmail.com
 
