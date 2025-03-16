@@ -20,35 +20,32 @@ website:
       - href: faq.qmd
         text: Book Q&A
     right:
-      - icon: instagram
-        href: https://instagram.com/bodyforgot
-        aria-label: Instagram
-      - text: "![threads](threads.svg)"
-        href: https://www.threads.net/@bodyforgot
-        aria-label: Threads
+      #- text: "![threads](threads.svg)"
+      #  href: https://www.threads.net/@bodyforgot
+      #  aria-label: Threads
       - text: "![amazon](amazon.svg)"
         href: https://www.amazon.com
         aria-label: Amazon
       - href: https://www.barnesandnoble.com/w/the-body-forgot-casey-jayne/1147087554?ean=9798992578805
         aria-label: Barnes & Noble
         text: BN
-      #- icon: envelope-at
-      #  href: mailto:
-      #- icon: spotify
-        #href:
+      - icon: instagram
+        href: https://instagram.com/bodyforgot
+        aria-label: Instagram
       #- icon: youtube
+      #  href: https://www.youtube.com/@Bodyforgot
+      - text: "Email"
+        url: mailto:bodyforgot@gmail.com
+
     execute:
       freeze: auto
 
 format:
   html:
-    #theme: cyborg
     theme: quartz
-    #theme: vapor
     css: styles.css
     toc: true
-    #backgroundcolor: "blue"
-    #foreground: "white"
+
 
 editor: visual
 
