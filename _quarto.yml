@@ -3,6 +3,10 @@ project:
 
 website:
   title: "Body Forgot"
+  favicon: 9798992578812.jpg
+  image: 9798992578812.jpg
+  twitter-card: true
+  description: "A children's book about chronic illness and disability available May 5, 2025"
   navbar:
     left:
       - href: index.qmd
@@ -25,7 +29,7 @@ website:
       - text: "![amazon](amazon.svg)"
         href: https://www.amazon.com
         aria-label: Amazon
-      - href: https://www.bn.com
+      - href: https://www.barnesandnoble.com/w/the-body-forgot-casey-jayne/1147087554?ean=9798992578805
         aria-label: Barnes & Noble
         text: BN
       #- icon: envelope-at
