@@ -1,5 +1,4 @@
 ---
-title: "Casey Jayne, Disabled Author of The Body Forgot"
 title: false
 title-meta: "Casey Jayne, Disabled Author of The Body Forgot"
 ---

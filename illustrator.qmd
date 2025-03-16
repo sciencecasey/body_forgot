@@ -1,5 +1,4 @@
 ---
-title: "Joey Highshoe"
 title: false
 title-meta: "About the illustrator of The Body Forgot"
 ---
