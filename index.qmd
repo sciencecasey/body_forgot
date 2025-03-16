@@ -11,18 +11,4 @@ title-meta: "The Body Forgot: A Fun Children's Book about Chronic Illness & Frie
 
 
 
-```{html}
-#| eval: false
-#| include: false
-# from yaml 
 
-#creator: "@bodyforgot"
-#  site: "@bodyforgot"
-  
-  #- text: "![threads](threads.svg)"
-      #  href: https://www.threads.net/@bodyforgot
-      #  aria-label: Threads
-  #- icon: youtube
-      #  href: https://www.youtube.com/@Bodyforgot
-
-```
